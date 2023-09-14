@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'my-portfolio',
 
-  projectId: 'd14f0w8j', //id can vary 
+  projectId: 'd14f0w8j', //Sanity studio must be available on integration
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
